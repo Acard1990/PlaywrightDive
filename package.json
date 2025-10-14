@@ -1,0 +1,23 @@
+{
+  "name": "playwrightQuickStarter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON runner.ts"
+  },
+  "keywords": [],
+  "author": "Scott",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^24.7.0",
+    "@types/prompts": "^2.4.9",
+    "dotenv": "^16.4.5"
+  },
+  "dependencies": {
+    "@dutchrican/playwright-quick-start": "^0.0.6",
+    "commander": "^14.0.1",
+    "prompts": "^2.4.2"
+  }
+}
