@@ -1,0 +1,7 @@
+{
+  "checkers_player": {
+    "baseURL": "https://www.gamesforthebrain.com/game/checkers/",
+    "username": "checkers_player",
+    "password": "secret_sauce"
+  }
+}
