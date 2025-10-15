@@ -13,7 +13,11 @@
     "@playwright/test": "^1.56.0",
     "@types/node": "^24.7.0",
     "@types/prompts": "^2.4.9",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "eslint": "^9.37.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "prettier": "^3.6.2"
   },
   "dependencies": {
     "@dutchrican/playwright-quick-start": "^0.0.6",
